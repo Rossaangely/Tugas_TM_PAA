@@ -1,0 +1,6 @@
+@Tugas_tm_HostAddress = http://localhost:5148
+
+GET {{Tugas_tm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
